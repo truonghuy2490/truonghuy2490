@@ -1,26 +1,41 @@
-<!-- Banner -->
+
+<!-- ==================== HEADER BANNER ==================== -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/truonghuy2490/truonghuy2409/refs/heads/main/banner-profile.jpg"
-    alt="Huy Nguyen — Software Engineer"
+    alt="Huy Nguyen - Software Engineer"
     width="100%"
   />
 </p>
 
+<!-- ==================== INTRODUCTION ==================== -->
 <h1 align="center">Hi, I'm Huy Nguyen</h1>
 
 <p align="center">
-  Software Engineer · Backend Developer
+  <strong>Software Engineer · Backend Developer</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/truonghuy2490">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/truonghuy2409/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:nguyenvutruonghuy112@gmail.com">Email</a>
+  Building reliable backend systems and exploring modern technologies.
 </p>
 
+<!-- ==================== SOCIAL LINKS ==================== -->
+<p align="center">
+  <a href="https://github.com/truonghuy2490">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://truonghuy-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-0A2540?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/truonghuy2409/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nguyenvutruonghuy112@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<!-- ==================== ABOUT ME ==================== -->
 ## About Me
 
 <p>
@@ -73,7 +88,17 @@ I am a Software Engineer interested in building reliable, maintainable software 
   />
 </p>
 
+---
 
+<!-- ==================== PROFILE VIEWS ==================== -->
 <p align="center">
-  Thanks for visiting my profile.
+  <img
+    alt="Profile Views"
+    src="https://views.whatilearened.today/views/github/truonghuy2490/truonghuy2490.svg"
+  />
+</p>
+
+<!-- ==================== FOOTER ==================== -->
+<p align="center">
+  <em>Thanks for visiting my profile!</em> ⭐
 </p>
