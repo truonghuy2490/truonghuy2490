@@ -2,7 +2,7 @@
 <!-- ==================== HEADER BANNER ==================== -->
 <p align="center">
   <img
-    src="https://github.com/truonghuy2490/truonghuy2490/blob/main/banner-profile3.jpg?raw=true"
+    src="https://github.com/truonghuy2490/truonghuy2490/blob/main/banner-profile.jpg?raw=true"
     alt="Huy Nguyen - Software Engineer"
     width="100%"
   />
